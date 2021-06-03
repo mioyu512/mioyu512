@@ -5,8 +5,7 @@
 - 我擅長的程式語言：
   - Scratch
   - Python
-  - HTML5
-  - CSS3
+  - HTML5 & CSS3
 
 - 我目前正在學習JS和Unity。
 

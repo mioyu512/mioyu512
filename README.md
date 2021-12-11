@@ -1,4 +1,4 @@
-- 嗨！我是喵羽（@mioyu5932），今年12歲
+- 嗨！我是喵宇（@mioyu512），今年12歲
 
 - 我最喜歡製作遊戲
 
@@ -9,4 +9,4 @@
   - Python
   - HTML5 & CSS3
 
-- 我目前正在學習JavaScript和Unity
+- 我目前正在學習JavaScript、Vue.js、Unity和UWP

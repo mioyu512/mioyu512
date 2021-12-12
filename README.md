@@ -9,4 +9,4 @@
   - Python
   - HTML5 & CSS3
 
-- 我目前正在學習JavaScript, Vue.js, Unity, WPF和UWP
+- 我目前正在學習JavaScript、Vue.js、Unity、WPF和UWP

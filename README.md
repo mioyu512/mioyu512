@@ -15,3 +15,7 @@
   - Python
   - HTML5 & CSS3
 - I'm currently learning JavaScript, Vue.js, Dart and Unity.
+
+---
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/972689581579313192)](https://discord.com/users/972689581579313192)

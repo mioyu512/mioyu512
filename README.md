@@ -1,4 +1,4 @@
-- 嗨！我是喵宇（@mioyu512），今年13歲
+- 嗨！我是喵宇（@mioyu512），今年14歲
 - 我最喜歡製作遊戲
 - 我會用的程式語言：
   - Scratch
@@ -8,7 +8,7 @@
 
 ---
 
-- Hi! I'm Mioyu (@mioyu512). I'm 13 years old now.
+- Hi! I'm @mioyu512. I'm 14 years old now.
 - I like to make games.
 - Programming languages I use:
   - Scratch

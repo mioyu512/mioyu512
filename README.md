@@ -2,7 +2,7 @@
 - 我最喜歡製作遊戲
 - 我會用的程式語言：
   - Python
-- 我目前正在學習JavaScript、Vue.js、Dart、Unity
+- 我目前正在學習JavaScript、Vue.js、Dart
 
 ---
 
@@ -10,7 +10,7 @@
 - I like to make games.
 - Programming languages I use:
   - Python
-- I'm currently learning JavaScript, Vue.js, Dart and Unity.
+- I'm currently learning JavaScript, Vue.js, and Dart.
 
 ---
 

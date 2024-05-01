@@ -11,7 +11,3 @@
 - Programming languages I use:
   - Python
 - I'm currently learning JavaScript, Vue.js, and Dart.
-
----
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/972689581579313192)](https://discord.com/users/972689581579313192)
